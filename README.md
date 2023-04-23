@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anish Thakur</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-- 🔭 Projects :
--        **Breast Cancer Data Analysis 
--                KNN, K- Means, Ensemble : Boosting , Bagging , Stacking , Python
--                
--        **Intrusion Detection System for IOV(Internet Of Vehicles using Tree Based Algorithms **
-
+- 🔭 **Projects** :       
+     - **Breast Cancer Data Analysis**
+         - `Health` `Data Science` `Ensemble Methods`
+         - **`Algorithms`** -> `KNN`, `PCA`, `K- Means`
+         - **`Ensemble`** -> `Boosting`, `Bagging`, `Stacking`
+         
+     - **COVID 19 Prognostic Prediction using Patient XRAY & CT-Scan**       
+         - `Health` `Data Science` `ANN` `CNN` `Image Recognition`
+         - **`MODEL`** -> `VGG16`-`ConvolutionAL Nueral Networks`         
+     - **Intrusion Detection System[IDS] for Internet Of Vehicles[IOV] using Tree Based Algorithms**
+         - `IOT`, `Networking`, `Security`, `Machine Learning`, `Python` `SMOTE` - `Oversampling`
+         - **`Algorithms`** -> `Decision Tree`, `Extra Tree`, `Random Forest`, `XGBoost` 
+         - **`Ensemble`** -> `Stacking` 
 - 🌱 I’m currently learning **Full Stack, Cloud, DSA**
 
 - 💬 Ask me about **Data Sciene**, **Front End**
