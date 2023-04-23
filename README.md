@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack, Cloud, DSA**
 
-- 💬 Ask me about **Data Sciene**
+- 💬 Ask me about **Data Sciene**, **Front End**
 
 - 📫 How to reach me **anishthakur1998@gmail.com**
 
