@@ -15,8 +15,6 @@
 <a href="https://www.leetcode.com/anishthkaur0028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishthkaur0028" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@anishthakur1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anishthakur1998" height="30" width="40" /></a>
 </p>
-
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -74,6 +72,7 @@
           <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
      </a> 
 </p>
+
 - 🔭 **Projects** :       
 
      - **Breast Cancer Data Analysis**
