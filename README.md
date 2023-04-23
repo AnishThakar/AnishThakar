@@ -1,21 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Thakur</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-- 🔭 **Projects** :       
-     - **Breast Cancer Data Analysis**
-         - **`DOMAIN`** ->`Health` `Data Science` `Ensemble Methods`
-         - **`ALGORITHMS`** -> `KNN`, `PCA`, `K- Means`
-         - **`ENSEMBLE`** -> `Boosting`, `Bagging`, `Stacking`
-         - **`lIBRARIES`** - `Keras`,
-     - **COVID 19 Prognostic Prediction using Patient XRAY & CT-Scan**       
-         - **`DOMAIN`** -> `Health` `Data Science` `ANN` `CNN` `Image Recognition`
-         - **`MODEL`** -> `VGG16`-`ConvolutionAL Nueral Networks`
-         - **`lIBRARIES`** - `Pandas`,`Numpy`, `Seaborn`, `Matplotlib`, `Sklearn`, **`Keras`**         
-     - **Intrusion Detection System[IDS] for Internet Of Vehicles[IOV] using Tree Based Algorithms**
-         - **`DOMAIN`** -> `IOT`, `Networking`, `Security`, `Machine Learning`, `Python` `SMOTE` - `Oversampling`
-         - **`ALGORITHMS`** -> `Decision Tree`, `Extra Tree`, `Random Forest`, `XGBoost` 
-         - **`ENSEMBLE`** -> `Stacking` 
-         - **`lIBRARIES`** - `Pandas`,`Numpy`, `Seaborn`, `Matplotlib`, `Sklearn`, **`Imblearn`**
+
 - 🌱 I’m currently learning **Full Stack, Cloud, DSA**
 
 - 💬 Ask me about **Data Sciene**, **Front End**
@@ -94,3 +80,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishthakar&show_icons=true&locale=en" alt="anishthakar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishthakar&" alt="anishthakar" /></p>
+
+- 🔭 **Projects** :       
+     - **Breast Cancer Data Analysis**
+         - **`DOMAIN`** ->`Health` `Data Science` `Ensemble Methods`
+         - **`ALGORITHMS`** -> `KNN`, `PCA`, `K- Means`
+         - **`ENSEMBLE`** -> `Boosting`, `Bagging`, `Stacking`
+         - **`lIBRARIES`** - `Keras`,
+     - **COVID 19 Prognostic Prediction using Patient XRAY & CT-Scan**       
+         - **`DOMAIN`** -> `Health` `Data Science` `ANN` `CNN` `Image Recognition`
+         - **`MODEL`** -> `VGG16`-`ConvolutionAL Nueral Networks`
+         - **`lIBRARIES`** - `Pandas`,`Numpy`, `Seaborn`, `Matplotlib`, `Sklearn`, **`Keras`**         
+     - **Intrusion Detection System[IDS] for Internet Of Vehicles[IOV] using Tree Based Algorithms**
+         - **`DOMAIN`** -> `IOT`, `Networking`, `Security`, `Machine Learning`, `Python` `SMOTE` - `Oversampling`
+         - **`ALGORITHMS`** -> `Decision Tree`, `Extra Tree`, `Random Forest`, `XGBoost` 
+         - **`ENSEMBLE`** -> `Stacking` 
+         - **`lIBRARIES`** - `Pandas`,`Numpy`, `Seaborn`, `Matplotlib`, `Sklearn`, **`Imblearn`**
