@@ -74,6 +74,36 @@
           <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
      </a> 
 </p>
+- 🔭 **Projects** :       
+
+     - **Breast Cancer Data Analysis**
+
+         - **`DOMAIN`** ->`Health` `Data Science` `Ensemble Methods`
+
+         - **`ALGORITHMS`** -> `KNN`, `PCA`, `K- Means`
+
+         - **`ENSEMBLE`** -> `Boosting`, `Bagging`, `Stacking`
+
+         - **`lIBRARIES`** - `Keras`,
+
+     - **COVID 19 Prognostic Prediction using Patient XRAY & CT-Scan**       
+
+         - **`DOMAIN`** -> `Health` `Data Science` `ANN` `CNN` `Image Recognition`
+
+         - **`MODEL`** -> `VGG16`-`ConvolutionAL Nueral Networks`
+
+         - **`lIBRARIES`** - `Pandas`,`Numpy`, `Seaborn`, `Matplotlib`, `Sklearn`, **`Keras`**         
+
+     - **Intrusion Detection System[IDS] for Internet Of Vehicles[IOV] using Tree Based Algorithms**
+
+         - **`DOMAIN`** -> `IOT`, `Networking`, `Security`, `Machine Learning`, `Python` `SMOTE` - `Oversampling`
+
+         - **`ALGORITHMS`** -> `Decision Tree`, `Extra Tree`, `Random Forest`, `XGBoost` 
+
+         - **`ENSEMBLE`** -> `Stacking` 
+
+         - **`lIBRARIES`** - `Pandas`,`Numpy`, `Seaborn`, `Matplotlib`, `Sklearn`, **`Imblearn`**
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishthakar&show_icons=true&locale=en&layout=compact" alt="anishthakar" /></p>
 
@@ -81,18 +111,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishthakar&" alt="anishthakar" /></p>
 
-- 🔭 **Projects** :       
-     - **Breast Cancer Data Analysis**
-         - **`DOMAIN`** ->`Health` `Data Science` `Ensemble Methods`
-         - **`ALGORITHMS`** -> `KNN`, `PCA`, `K- Means`
-         - **`ENSEMBLE`** -> `Boosting`, `Bagging`, `Stacking`
-         - **`lIBRARIES`** - `Keras`,
-     - **COVID 19 Prognostic Prediction using Patient XRAY & CT-Scan**       
-         - **`DOMAIN`** -> `Health` `Data Science` `ANN` `CNN` `Image Recognition`
-         - **`MODEL`** -> `VGG16`-`ConvolutionAL Nueral Networks`
-         - **`lIBRARIES`** - `Pandas`,`Numpy`, `Seaborn`, `Matplotlib`, `Sklearn`, **`Keras`**         
-     - **Intrusion Detection System[IDS] for Internet Of Vehicles[IOV] using Tree Based Algorithms**
-         - **`DOMAIN`** -> `IOT`, `Networking`, `Security`, `Machine Learning`, `Python` `SMOTE` - `Oversampling`
-         - **`ALGORITHMS`** -> `Decision Tree`, `Extra Tree`, `Random Forest`, `XGBoost` 
-         - **`ENSEMBLE`** -> `Stacking` 
-         - **`lIBRARIES`** - `Pandas`,`Numpy`, `Seaborn`, `Matplotlib`, `Sklearn`, **`Imblearn`**
