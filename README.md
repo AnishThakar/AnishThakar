@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anish Thakur</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-- 🔭 I’m currently working on **Intrusion Detection System for IOV**
+- 🔭 Projects :
+-        **Breast Cancer Data Analysis 
+-                KNN, K- Means, Ensemble : Boosting , Bagging , Stacking , Python
+-                
+-        **Intrusion Detection System for IOV(Internet Of Vehicles using Tree Based Algorithms **
 
 - 🌱 I’m currently learning **Full Stack, Cloud, DSA**
 
