@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
 
-- 🌱 I’m currently learning **Full Stack, Cloud, DSA**
+- 🌱 I’m currently learning **MongoDB, Cloud, DSA**
 
-- 💬 Ask me about **Data Sciene**, **Front End**
+- 💬 Ask me about **Data Sciene**, **Front End**, **Networking**,**DBMS**
 
 - 📫 How to reach me **anishthakur1998@gmail.com**
 
